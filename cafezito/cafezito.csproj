@@ -53,26 +53,27 @@
       <DependentUpon>cafezitoView.cs</DependentUpon>
     </Compile>
     <Compile Include="Controller\Class1.cs" />
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
     <Compile Include="model\Cliente.cs" />
+    <Compile Include="model\ClienteDAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="cafezitoView.resx">
       <DependentUpon>cafezitoView.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\View\Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <Compile Include="Properties\View\Form1.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Properties\View\Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
@@ -117,6 +118,10 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Desenho De Rysunek Xícara Café E Grãos PNG , Desenho De Café, Desenho De Xícara De Café, Desenho De Grão De Café Imagem PNG e PSD Para Download Gratuito.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\View\" />
+    <Folder Include="view\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

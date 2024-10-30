@@ -16,7 +16,7 @@ namespace cafezito
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CafezitoView());
+            Application.Run(new FormLogin());
         }
     }
 }

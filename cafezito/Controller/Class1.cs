@@ -11,7 +11,8 @@ namespace cafezito.Controller
 {
     internal class Connection
     {
-        private SqlConnection con;
+        private SqlConnection 
+            con;
         private string DataBase = "PR2CJ3022439bdcafezito";
         private string Server = "sqlexpress";
         private string username = "aluno";
@@ -21,7 +22,7 @@ namespace cafezito.Controller
         {
 
             string stringConnection = @"Data Source = " + Server
-            + "; Intial Catalog = " + DataBase
+            + "; Initial Catalog = " + DataBase
             + "; User Id = " + username
             + "; Password = " + Password
             + "; encrypt = false";

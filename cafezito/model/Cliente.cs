@@ -9,21 +9,24 @@ namespace cafezito.model
 {
     internal class Cliente
     {
-           public int CodCafezito { get; set; }
-           public string Objective {  get; set; }
-          public float Preco { get; set; }
-          public string Descricao { get; set; }
-          public string Produto { get; set; }
-        public float Quantidade { get; set; }
+        public int CodCliente { get; set; }
 
-        public Cliente(string objective, float preco, string descricao, string produto, float quantidade) {
+          public string Usuario { get; set; }
+          public string Senha { get; set; }
+        
 
-            Objective = objective;
-            Preco = preco;
-            Descricao = descricao;
-            Produto = produto;
-            Quantidade = quantidade;
+        public Cliente(string usuario, string senha) {
+
+            
+          
+            Usuario = usuario;
+            Senha = senha;
+            
+           
+
         
         }
+
+     
     }
 }
