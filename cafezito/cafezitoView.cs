@@ -17,6 +17,9 @@ namespace cafezito
             InitializeComponent();
         }
 
-        
+        private void CafezitoView_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

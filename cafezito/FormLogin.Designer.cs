@@ -31,6 +31,7 @@ namespace cafezito
         {
             this.dateTimePicker1 = new System.Windows.Forms.DateTimePicker();
             this.groupcadastro = new System.Windows.Forms.GroupBox();
+            this.btnlogin = new System.Windows.Forms.Button();
             this.btncriar = new System.Windows.Forms.Button();
             this.txbcadsenha = new System.Windows.Forms.TextBox();
             this.txbcaduser = new System.Windows.Forms.TextBox();
@@ -39,7 +40,6 @@ namespace cafezito
             this.texttitulo = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
-            this.btnlogin = new System.Windows.Forms.Button();
             this.groupcadastro.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -69,6 +69,17 @@ namespace cafezito
             this.groupcadastro.TabIndex = 2;
             this.groupcadastro.TabStop = false;
             this.groupcadastro.Text = "cadastro";
+            // 
+            // btnlogin
+            // 
+            this.btnlogin.Font = new System.Drawing.Font("Segoe Script", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnlogin.Location = new System.Drawing.Point(173, 197);
+            this.btnlogin.Name = "btnlogin";
+            this.btnlogin.Size = new System.Drawing.Size(61, 23);
+            this.btnlogin.TabIndex = 5;
+            this.btnlogin.Text = "Login";
+            this.btnlogin.UseVisualStyleBackColor = true;
+            this.btnlogin.Click += new System.EventHandler(this.btnlogin_Click);
             // 
             // btncriar
             // 
@@ -146,16 +157,6 @@ namespace cafezito
             this.groupBox2.Size = new System.Drawing.Size(830, 32);
             this.groupBox2.TabIndex = 5;
             this.groupBox2.TabStop = false;
-            // 
-            // btnlogin
-            // 
-            this.btnlogin.Font = new System.Drawing.Font("Segoe Script", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnlogin.Location = new System.Drawing.Point(173, 197);
-            this.btnlogin.Name = "btnlogin";
-            this.btnlogin.Size = new System.Drawing.Size(61, 23);
-            this.btnlogin.TabIndex = 5;
-            this.btnlogin.Text = "Login";
-            this.btnlogin.UseVisualStyleBackColor = true;
             // 
             // FormLogin
             // 

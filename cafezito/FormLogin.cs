@@ -49,6 +49,12 @@ namespace cafezito
 
         }
 
-       
+        private void btnlogin_Click(object sender, EventArgs e)
+        {
+            CafezitoView cafezitoView = new CafezitoView();
+            this.Visible = false;
+            cafezitoView.ShowDialog();
+            this.Visible=true;
+        }
     }
 }
