@@ -61,6 +61,8 @@
     </Compile>
     <Compile Include="model\Cliente.cs" />
     <Compile Include="model\ClienteDAO.cs" />
+    <Compile Include="model\Comprar.cs" />
+    <Compile Include="model\ComprarDAO.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="cafezitoView.resx">
@@ -122,6 +124,33 @@
   <ItemGroup>
     <Folder Include="Properties\View\" />
     <Folder Include="view\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %281%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %282%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %282%29 %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %282%29 %285%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo %282%29 %284%29 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Texto do seu parágrafo1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

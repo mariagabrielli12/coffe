@@ -118,31 +118,58 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Captura de tela 2024-08-13 192308" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Captura de tela 2024-08-13 192308.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="th" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\th.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-brazilian-snack-traditional-cheese-bread-from-minas-gerais-pao-de-queijo-png-image_11711937" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-brazilian-snack-traditional-cheese-bread-from-minas-gerais-pao-de-queijo-png-image_11711937.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="pao-2-e1611843377616" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\pao-2-e1611843377616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="644754_e069bdc718244bd4b9ef8fbce7e57268~mv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\644754_e069bdc718244bd4b9ef8fbce7e57268~mv2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Desenho De Rysunek Xícara Café E Grãos PNG , Desenho De Café, Desenho De Xícara De Café, Desenho De Grão De Café Imagem PNG e PSD Para Download Gratuito" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Desenho De Rysunek Xícara Café E Grãos PNG , Desenho De Café, Desenho De Xícara De Café, Desenho De Grão De Café Imagem PNG e PSD Para Download Gratuito.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (2) (5)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (2) (5).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (2) (4)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (2) (4).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="pngtree-brazilian-snack-traditional-cheese-bread-from-minas-gerais-pao-de-queijo-png-image_11711937 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\pngtree-brazilian-snack-traditional-cheese-bread-from-minas-gerais-pao-de-queijo-png-image_11711937 (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="644754_e069bdc718244bd4b9ef8fbce7e57268~mv2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\644754_e069bdc718244bd4b9ef8fbce7e57268~mv2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="31c590546de4a3ffcd05f498cdfd066f" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\31c590546de4a3ffcd05f498cdfd066f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="th" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\th.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Texto do seu parágrafo (2) (4) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (2) (4) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pao-2-e1611843377616" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\pao-2-e1611843377616.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (1) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (1) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="181744259" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\181744259.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="31c590546de4a3ffcd05f498cdfd066f" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\31c590546de4a3ffcd05f498cdfd066f.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Texto do seu parágrafo" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Desenho De Rysunek Xícara Café E Grãos PNG , Desenho De Café, Desenho De Xícara De Café, Desenho De Grão De Café Imagem PNG e PSD Para Download Gratuito" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Desenho De Rysunek Xícara Café E Grãos PNG , Desenho De Café, Desenho De Xícara De Café, Desenho De Grão De Café Imagem PNG e PSD Para Download Gratuito.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Captura de tela 2024-08-13 192308" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Captura de tela 2024-08-13 192308.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (1)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (1)1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo (2) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo (2) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Texto do seu parágrafo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Texto do seu parágrafo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
